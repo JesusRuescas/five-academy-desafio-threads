@@ -1,6 +1,6 @@
 # Java Threads Desafio
 
-<p align="left"> <img src="https://i.imgur.com/1ij56vA.png" alt="jesusruescas" /> </p>
+<p align="left"> <img src="https://imgur.com/Ywc16.jpg" alt="jesusruescas" /> </p>
 
 > Desafio sobre Threads proposto pela mentora Susan do Five Academy
 
