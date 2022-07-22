@@ -32,6 +32,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Conhecimento em `Java`
 
 <div> 
+<p align="left"> <img src="https://i.imgur.com/fFSx5Wf.png" alt="jesusruescas" /> </p>
   <a href = "mailto:jrj_business@outlook.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/JesusRuescas" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
