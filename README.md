@@ -1,4 +1,4 @@
-# PostgreSQL desafio
+# Java Threads Desafio
 
 <p align="left"> <img src="https://i.imgur.com/fFSx5Wf.png" alt="jesusruescas" /> </p>
 
