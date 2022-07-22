@@ -8,8 +8,11 @@
 
 - Jesus Ruescas Junior  <a href = "mailto:jrj_business@outlook.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/JesusRuescas" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-- Tarik Fabri Santos
-- Yuri Diego Oliveira do Nascimento
+  
+- Tarik Fabri Santos <a href = "mailto:tarik.santos95@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/TarikSantos" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- Yuri Diego Oliveira do Nascimento   <a href = "mailto:yuriidiiego@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yuriidiiego/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### Tarefas
 
@@ -32,8 +35,3 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você poussí alguma `IDE Java`
 * Conhecimento em `Java`
 
-<div> 
-  <a href = "mailto:jrj_business@outlook.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/JesusRuescas" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
